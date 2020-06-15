@@ -1,6 +1,0 @@
-.*
-*.md
-dockerfiles*
-*.dockerfile
-travis*
-LICENSE
